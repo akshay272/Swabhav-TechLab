@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //f1();
+        function f1(){
+            console.log("inside f1 function");
+            for( var count  = 1; count <=10; count++){
+                console.log("counter value is : " + count);
+            }
+            console.log("after loop counter is : " + count);
+        }
+
+        //console.log("after f1, counter is : " + count); // error -->count is not defined
+
+        f1();
+    </script>
+</body>
+</html>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .batman{
+            width: 100px;
+            height: 200px;
+            background-color: rgb(143, 47, 47);
+            color: white;
+        }
+    </style>
+    
+    <div class="batman"> Hello</div>
+    <div class="batman"> how are u</div>
+    <div class="batman"> Akshay sawant</div>
+    
+
+    <script>
+        var myElements = document.querySelectorAll(".batman");
+        for (var i = 1; i < myElements.length; i++) {
+            myElements[i].style.color = "#511"
+        }
+    </script>
+
+    <div id="myDiv" class="foo"> 
+    </div>
+    <script>
+        var divElements = document.querySelector("#myDiv");
+        divElements.classList.add("bar");
+        divElements.classList.add("end");
+        alert(divElements.classList);
+        divElements.classList.remove("bar");
+        alert(divElements.classList);
+        divElements.classList.toggle("end");
+        alert(divElements.classList);
+        divElements.classList.toggle("end");
+        alert(divElements.classList);
+        divElements.classList.toggle("end");
+        alert(divElements.classList);
+
+
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonApp\bin\Debug\LSPVoilatonApp.exe.config
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonApp\bin\Debug\LSPVoilatonApp.exe
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonApp\bin\Debug\LSPVoilatonApp.pdb
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonApp\obj\Debug\LSPVoilatonApp.csproj.CoreCompileInputs.cache
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonApp\obj\Debug\LSPVoilatonApp.exe
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonApp\obj\Debug\LSPVoilatonApp.pdb
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonApp\obj\Debug\LSPVoilatonApp.csproj.AssemblyReference.cache

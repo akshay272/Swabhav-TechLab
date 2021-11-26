@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=var , initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <script>
+        var numbers = [10,20,30,40,50,60,70];
+        numbers.forEach(display);
+
+        function display(number){
+            console.log(number);
+        }
+
+        numbers.filter(IsNumberGreaterThan_25)
+            .forEach(display);
+        
+        function IsNumberGreaterThan_25(no){
+            return no > 25;
+        }
+        console.log("convert to int");
+        var nums = ["10","20","30","40","50", "60","70","80"];
+        nums.map(ConverToInt).filter(IsNumberGreaterThan_50).forEach(display);
+
+
+        function ConverToInt(strNum){
+            return parseInt(strNum);
+        }
+        function IsNumberGreaterThan_50(no){
+            return no > 50;
+        }
+    </script>
+    
+</body>
+</html>

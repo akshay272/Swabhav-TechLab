@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id= "main">
+        <div class="pictureContainer">
+            <img class="theImage" src="https://hddesktopwallpapers.in/wp-content/uploads/2015/06/landscape-pictures.jpg" 
+                height="330" width="150"/>
+        </div>
+    </div>
+    <div class="pictureContainer">
+        <img class="theImage" src="https://th.bing.com/th/id/OIP.Zzd2JF6iCxrZGscJC00PIwHaEX?pid=ImgDet&rs=1" height="300" width="150">
+    </div>
+    <div class="pictureContainer">
+        <img class="theImage" src="https://th.bing.com/th/id/OIP.9EcKqU7uc-Gc0vidFpu4OgHaJ_?pid=ImgDet&w=700&h=945&rs=1" height="300" width="150">
+    </div>
+    <div class="pictureContainer">
+        <img class="theImage" src="https://hddesktopwallpapers.in/wp-content/uploads/2015/08/sunshine-pictures.jpg" height="300" width="150">
+    </div>
+    
+    <script>
+        var images = document.querySelector(".theImage");
+        //alert(images.getAttribute("width"));
+        for (var index = 0; index < images.length; index++) {
+            //var image = images[index];
+            alert(images.getAttribute("src"));
+        };
+    </script>
+</body>
+</html>

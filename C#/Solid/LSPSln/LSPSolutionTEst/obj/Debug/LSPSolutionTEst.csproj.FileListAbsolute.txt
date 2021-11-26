@@ -1,0 +1,17 @@
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\LSPSolutionTEst.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\LSPSolutionTEst.pdb
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\obj\Debug\LSPSolutionTEst.csproj.AssemblyReference.cache
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\obj\Debug\LSPSolutionTEst.csproj.CoreCompileInputs.cache
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\obj\Debug\LSPSolutionTEst.csproj.CopyComplete
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\obj\Debug\LSPSolutionTEst.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\obj\Debug\LSPSolutionTEst.pdb
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\LSPsolutionApp.exe
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\LSPsolutionApp.pdb
+D:\SwabhavTech\C#\OOP\LSPSln\LSPSolutionTEst\bin\Debug\LSPsolutionApp.exe.config

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 16 : Properties </title>
+</head>
+<body>
+    <script>
+        //properties are uses key value pair to store the data
+       /* var funnyGuy ={};
+        funnyGuy.FirstName = "Conan";
+        funnyGuy.LastName = "O' Brien";
+
+        //2nd approach to declare property
+        var funnyGuy ={};
+        funnyGuy["FirstName"] = "Akshay" ;
+        funnyGuy["LastName"] = "Sawant";
+
+        //3rd approach
+        //and creating Custom Objects
+*/
+        
+
+        var funnyGuy = {
+            FirstName : "Akshay",
+            LastName : "Sawant",
+            Address : "Thane , Maharashtra",
+
+            GetName : function(){
+                return "Nmae is " + this.FirstName + " " + this.LastName;
+            },
+            GetAddress : function(){
+                return "Address of " + this.FirstName + this.LastName + " is " + this.Address;
+            }
+        };
+
+        alert(funnyGuy.GetName());
+        alert(funnyGuy.GetAddress());
+
+        var theDude = {
+            FirstName : "Kunal",
+            LastName : "Thakre",
+
+            GetName : function(){
+                return "Nmae is " + this.FirstName + " " + this.LastName;
+            }
+        };
+        var detective = {
+            FirstName : "Vishal",
+            LastName : "choudhari",
+
+            GetName : function(){
+                return "Nmae is " + this.FirstName + " " + this.LastName;
+            }
+        };
+        var person = {
+            GetName : function(){
+                return "Nmae is " + this.FirstName + " " + this.LastName;
+            }
+        };
+
+        var funnyGuy = Object.create(person);
+        funnyGuy.FirstName = "akshay";
+        funnyGuy.LastName = "Sawant";
+        alert(funnyGuy.GetName());
+
+        
+    </script>
+</body>
+</html>

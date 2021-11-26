@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS book Chapter 8</title>
+</head>
+<body>
+    <script>
+        //Closure (function inside funciton)
+        function youSayHello(){
+            alert("Goodbye!");
+
+            function andISayHello(){
+                alert("hello");
+            }
+            return andISayHello();
+        }
+        var something = youSayHello();
+        something();
+
+
+        function stopWatch(){
+            var startTime = Date.now();
+
+            function getDelay(){
+                var elapsedTime = Date.now() - startTime;
+                alert(elapsedTime);
+                alert("in stopwatch");
+            }
+            return getDelay();
+        }
+        //var time1 = stopWatch();
+        //time1();
+        alert(stopWatch());
+
+    </script>
+</body>
+</html>

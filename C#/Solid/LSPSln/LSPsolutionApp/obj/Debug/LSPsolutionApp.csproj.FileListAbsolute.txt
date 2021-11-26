@@ -1,0 +1,7 @@
+D:\SwabhavTech\C#\OOP\LSPSln\LSPsolutionApp\obj\Debug\LSPsolutionApp.csproj.AssemblyReference.cache
+D:\SwabhavTech\C#\OOP\LSPSln\LSPsolutionApp\obj\Debug\LSPsolutionApp.csproj.CoreCompileInputs.cache
+D:\SwabhavTech\C#\OOP\LSPSln\LSPsolutionApp\bin\Debug\LSPsolutionApp.exe.config
+D:\SwabhavTech\C#\OOP\LSPSln\LSPsolutionApp\bin\Debug\LSPsolutionApp.exe
+D:\SwabhavTech\C#\OOP\LSPSln\LSPsolutionApp\bin\Debug\LSPsolutionApp.pdb
+D:\SwabhavTech\C#\OOP\LSPSln\LSPsolutionApp\obj\Debug\LSPsolutionApp.exe
+D:\SwabhavTech\C#\OOP\LSPSln\LSPsolutionApp\obj\Debug\LSPsolutionApp.pdb

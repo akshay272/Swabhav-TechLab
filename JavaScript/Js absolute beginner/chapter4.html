@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSbook CHapter 4</title>
+</head>
+<body>
+    <script>
+        //if..else loop
+        var speedLimit = 60;
+
+        function amiSpeeding(speed){
+            if(speed >= speedLimit){
+                alert("Yes, you are speeding");
+            }
+            else{
+                alert("No, you are not speeding, whats wrong with u?");
+            }
+        }
+        amiSpeeding(40);
+        amiSpeeding(120);
+
+        //switch case------>>
+        var color = "red";
+
+        switch(color){
+            case "yellow":
+                alert("yellow color");
+                break;
+            case "red":
+                alert("red color");
+                break;
+            case "blue":
+                alert("blue color");
+                break;
+            case "black": 
+                alert("black color");
+                break;
+            default:
+                alert("No color match with specified colors");
+        }
+    </script>
+</body>
+</html>

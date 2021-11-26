@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Invoked Function </title>
+</head>
+<body>
+    <script>
+        /*function quotation(names){
+            var quotes = [];
+            
+            for (let index = 0; index < names.length; index++) {
+                (function (index) {
+                    var theFunction = function(){;
+                    return "My name is " + names[i] + "!"
+                }
+                quotes.push(theFunction);
+            }) (i);
+                
+            }
+            return quotes;
+        }
+
+        var names = ["Akshay", "Shivam" ,"Siddhesh", "Sagar"];
+        var quotes = new quotation(names);
+        document.write(quotes);*/
+
+        var weakSauce ={
+
+            secretCode : "Zorb!",
+            
+            checkCode : function(code){
+                if(this.secretCode == code){
+                    alert("You are awesome");
+                }
+                else{
+                    alert("Try again!");
+                }
+            }
+        };
+        
+        weakSauce.checkCode("Zorb!");
+    </script>
+</body>
+</html>

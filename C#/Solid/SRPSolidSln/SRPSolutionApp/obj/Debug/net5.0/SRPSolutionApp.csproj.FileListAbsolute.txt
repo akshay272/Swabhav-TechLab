@@ -1,0 +1,16 @@
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.csproj.AssemblyReference.cache
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.AssemblyInfoInputs.cache
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.AssemblyInfo.cs
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.csproj.CoreCompileInputs.cache
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.exe
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.deps.json
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.runtimeconfig.json
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.runtimeconfig.dev.json
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.dll
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\bin\Debug\net5.0\ref\SRPSolutionApp.dll
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\bin\Debug\net5.0\SRPSolutionApp.pdb
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.dll
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\obj\Debug\net5.0\ref\SRPSolutionApp.dll
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.pdb
+D:\SwabhavTech\C#\Solid\SRPSolidSln\SRPSolutionApp\obj\Debug\net5.0\SRPSolutionApp.genruntimeconfig.cache

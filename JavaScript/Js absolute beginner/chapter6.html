@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Js book Chapter 6</title>
+</head>
+<body>
+    <p>Akshay </p> <br>
+    <div id="gfg" style="background-color: Red; height: 200; width: 300;">
+        <h4>window.r</h4>
+    </div>
+     <script>
+         //-----Timer--------
+         //setTimeout
+         function sayHello(){
+             alert("hello everyone!");
+         }
+         var timeID = setTimeout(sayHello, 5000);
+
+         //setInterval
+         function drawText(){
+             document.querySelector("p").textContent += "#\n";
+         }
+         var intervalID = setInterval(drawText, 200);
+        
+         //window setInterval
+         //window.setInterval(sayHello,7000 );
+
+         //animation Code
+         var start = null; 
+        var element = document.getElementById('gfg');
+  
+        function startAnim(timestamp) {
+  
+            // Timestamp is an integer that represents the number 
+            // of seconds elapsed since January 1 1970.
+            if (!start) start = timestamp;
+  
+            // Setting the difference between timestamp 
+            // and the set start point as our progress
+            var progress = timestamp - start;
+  
+            // Moving our div element
+            element.style.transform = 
+            'translateX(' + Math.min(progress / 10, 700) + 'px)';
+            window.requestAnimationFrame(startAnim);
+        
+        }
+     </script>
+</body>
+</html>

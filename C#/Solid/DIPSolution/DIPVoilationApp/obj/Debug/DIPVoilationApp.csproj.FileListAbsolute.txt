@@ -1,0 +1,14 @@
+D:\SwabhavTech\C#\OOP\DIPSolution\DIPVoilationApp\bin\Debug\DIPVoilationApp.exe.config
+D:\SwabhavTech\C#\OOP\DIPSolution\DIPVoilationApp\bin\Debug\DIPVoilationApp.exe
+D:\SwabhavTech\C#\OOP\DIPSolution\DIPVoilationApp\bin\Debug\DIPVoilationApp.pdb
+D:\SwabhavTech\C#\OOP\DIPSolution\DIPVoilationApp\obj\Debug\DIPVoilationApp.csproj.AssemblyReference.cache
+D:\SwabhavTech\C#\OOP\DIPSolution\DIPVoilationApp\obj\Debug\DIPVoilationApp.csproj.CoreCompileInputs.cache
+D:\SwabhavTech\C#\OOP\DIPSolution\DIPVoilationApp\obj\Debug\DIPVoilationApp.exe
+D:\SwabhavTech\C#\OOP\DIPSolution\DIPVoilationApp\obj\Debug\DIPVoilationApp.pdb
+D:\SwabhavTech\C#\OOP\SOLID\DIPSolution\DIPVoilationApp\bin\Debug\DIPVoilationApp.exe.config
+D:\SwabhavTech\C#\OOP\SOLID\DIPSolution\DIPVoilationApp\bin\Debug\DIPVoilationApp.exe
+D:\SwabhavTech\C#\OOP\SOLID\DIPSolution\DIPVoilationApp\bin\Debug\DIPVoilationApp.pdb
+D:\SwabhavTech\C#\OOP\SOLID\DIPSolution\DIPVoilationApp\obj\Debug\DIPVoilationApp.csproj.AssemblyReference.cache
+D:\SwabhavTech\C#\OOP\SOLID\DIPSolution\DIPVoilationApp\obj\Debug\DIPVoilationApp.csproj.CoreCompileInputs.cache
+D:\SwabhavTech\C#\OOP\SOLID\DIPSolution\DIPVoilationApp\obj\Debug\DIPVoilationApp.exe
+D:\SwabhavTech\C#\OOP\SOLID\DIPSolution\DIPVoilationApp\obj\Debug\DIPVoilationApp.pdb

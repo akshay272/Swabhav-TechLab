@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+         
+       console.log("aurionpro.student");
+       console.log["aurionpro.student"];
+
+       var student = [{ name : "Akshay", cgpa : 8.5 , location: "Thane"},
+                     {name : "Shivam", cgpa : 7, location:"Mumbai"},
+                     {name: "Yogeshwar" , cgpa : 8, location:"AhmedNagar"},
+                     {name: "siddhesh" , cgpa : 9, location: "Navi Mumbai"},
+                     {name: "sagar" , cgpa : 10, location:"Mumbai"}];
+       
+        localStorage["student"] = JSON.stringify(student);
+        document.write(localStorage["student"]);
+        var data = localStorage.getItem("student");
+        //var data2 = JSON.parse(localStorage.getItem("student"));
+        console.log(data[0].split(":"));
+        
+    </script>
+</body>
+</html>

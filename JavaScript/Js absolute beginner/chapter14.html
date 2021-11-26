@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chapter 14 : Arrays</title>
+</head>
+<body>
+    <script>
+        var groceries = ["milk", "Eggs", "Frostes Flakes", "Salami", "Juices"];
+        
+        //accessing array
+        for(var i=0; i<groceries.length; i++){
+            document.writeln(groceries[i] + "<br>");
+        }
+        //Adding item in array
+        groceries.push("Butter");
+        document.write(groceries.toString()+ "<br>");
+
+        //Adding element in begining
+        groceries.unshift("Bread"); 
+        document.write(groceries.toString()+ "<br>");
+
+        //Remove element from array
+        groceries.pop();
+        document.write(groceries.toString()+ "<br>");
+        
+
+        groceries.shift();
+        document.write(groceries.toString()+ "<br>");
+
+        //finding elements in array
+        var resultIndex = groceries.indexOf("Eggs", 0);
+        document.write(resultIndex + "<br>");
+
+        //Merging two arrays
+        var good = ["Mario", "Akshay", "Shivam"];
+        var good2 = ["siddhes", "sagar", "yogeshwar"];
+        document.write(good.concat(good2) + "<br>");
+    </script>
+</body>
+</html>

@@ -1,0 +1,17 @@
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\LSPVoilatonAppTests.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\LSPVoilatonAppTests.pdb
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\LSPVoilatonApp.exe
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\LSPVoilatonApp.pdb
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\LSPVoilatonApp.exe.config
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\obj\Debug\LSPVoilatonAppTests.csproj.AssemblyReference.cache
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\obj\Debug\LSPVoilatonAppTests.csproj.CoreCompileInputs.cache
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\obj\Debug\LSPVoilatonAppTests.csproj.CopyComplete
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\obj\Debug\LSPVoilatonAppTests.dll
+D:\SwabhavTech\C#\OOP\LSPSln\LSPVoilatonAppTests\obj\Debug\LSPVoilatonAppTests.pdb

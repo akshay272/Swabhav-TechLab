@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        function Customer(){
+            var _id, _name;
+
+            this.setId = function(id){
+                if(id>1){
+                    _id = id;
+                }
+            }
+            this.setName = function(){
+                if(name.length > 0){
+                    _name = name;
+                }
+            }
+
+            this.getDetails = function(){
+                return "name is "  + _name + "id is "  + _id;
+
+            }
+
+        };
+
+        var c1 = new Customer();
+        c1.setId(1001);
+        c1.setName("Akshay");
+        console.log(c1.getDetails());
+
+        var c2 = Customer();
+        c2.setId(1002);
+        c2.setName("siddhesh");
+        console.log(c2.getDetails());
+
+        
+
+
+
+    </script>
+</body>
+</html>

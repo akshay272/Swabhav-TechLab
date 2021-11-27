@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="delay"> delay</button>
+    <button id="hello"> hello</button>
+    <button id="goodbuy"> goodbuy</button>
+
+    <script>
+        
+        var hello = document.querySelector("hello");
+        var delay = document.querySelector("delay");
+        var goodbuy = document.querySelector("goodbuy");
+
+        hello.addEventListener("click", helloHandler);
+        //delay.addEventListener("click", helloHandler());
+        delay.addEventListener("click", goodbuyHandler);
+        function delayFor6Seconds(seconds){
+            var startTime = Date.now();
+            while(Date.now() - startTime < seconds*1000){
+                setInterval(6000);
+            }
+        }
+        /*var delayHandler = {
+
+        delayFor6Seconds(seconds)
+        }*/
+        function helloHandler(){
+            console.log("hello");
+        }
+        function goodbuyHandler(){
+            console.log("goodbuy");
+        }
+    </script>
+
+</body>
+
+
+</html>

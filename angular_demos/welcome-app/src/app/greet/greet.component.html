@@ -1,0 +1,8 @@
+<div>
+    Enter a Name : 
+    <input type="text" value="Akshay" #textUserName/>
+    <br>
+    <input type="button" value="greet" (click)="handleGreet(textUserName.value)" />
+
+    <h3> {{message}}</h3>
+</div>

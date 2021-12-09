@@ -1,6 +1,7 @@
 <sw-header></sw-header>
 
-<div *ngIf="randomValue>0.5;else noDataBlock">
+<!--
+ <div *ngIf="randomValue>0.5;else noDataBlock">
   <h1> {{message | uppercase}} </h1> 
   <h2> 
     {{22/7 | number: '1.3-3'}}
@@ -12,6 +13,14 @@
 
 <ng-template #noDataBlock>
   No data {{randomValue}}
-</ng-template>
+</ng-template> 
 
+
+<sw-greet></sw-greet>
+<sw-discount> </sw-discount>
+<sw-spinner></sw-spinner>
+<sw-looping></sw-looping>
+-->
+
+<sw-blueball></sw-blueball>
 <sw-footer></sw-footer>

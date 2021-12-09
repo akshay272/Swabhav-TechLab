@@ -1,0 +1,15 @@
+<div>
+    Enter Amount : 
+    <input type="text" #amount>
+    <br> <br>
+    Discount rate : 
+    <input type="text" #rate >
+    <br><br>
+    <input type="button" value="Calculate" (click) = "calculateDiscount(amount.value, rate.value )" />
+    <br>
+    <div>
+        <img [src] = "imageUrl" [hidden] = hideImage />
+        <h3> {{message}} </h3>
+    </div>
+    
+</div>

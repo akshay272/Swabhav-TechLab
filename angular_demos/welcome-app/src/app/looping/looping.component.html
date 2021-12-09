@@ -1,0 +1,7 @@
+<h1>Looping Component</h1>
+
+<div>
+    <ul *ngFor ="let item of makeList(10);index as i; even as isEven">
+        <li [style.color]="getColor(isEven)" > Swabhav {{i}}</li>
+    </ul>
+</div>

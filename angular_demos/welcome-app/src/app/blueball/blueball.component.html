@@ -1,0 +1,15 @@
+<p>blueball works!</p>
+
+<div id="divStart">
+    <h1>Blue ball Game</h1>
+    <h3> Rules </h3>
+    <hr>
+    <h4>1. You can select balls from 10 to 100</h4>
+    <h4>2. You have only 1 minute to complete </h4>
+    <h4>3. only 4 tries </h4>
+
+    <div id="sliderDiv">
+        <input type="range" min="10" max="100" value="50"  id="myRange">
+        <input type="button" value="start" (click)="start(myRange.value)"/>
+    </div>
+</div>
